@@ -1,20 +1,9 @@
 <template>
   <div id="app">
+    <h1>keep array data inside local JSON file for Vue App</h1>
     <Alphabet class="center" />
 
     <section class="title">
-      <h1>This array was imported from the local JSON file</h1>
-      <p>
-        This is an example of an exercise for VueJs learning purpose<br />
-        <a href="#">Read VueJS Tutorial</a>
-      </p>
-
-      <p>
-        Download this project from the<br />
-        <a href="https://github.com/artrayd/items-array-from-local-json"
-          >GitHub repository</a
-        >
-      </p>
     </section>
   </div>
 </template>

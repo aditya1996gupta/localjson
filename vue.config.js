@@ -1,4 +1,4 @@
-module.exports = {
-  publicPath: '/vue-local-json-array/',
-  productionSourceMap: false
-}
+// module.exports = {
+//   publicPath: '/vue-local-json-array/',
+//   productionSourceMap: false
+// }

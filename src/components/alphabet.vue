@@ -40,7 +40,7 @@ export default {
 
   mounted: function() {
     // Checking if everything works, delete this right after you see that everything works
-    // console.log(this.letters);
+     console.log(this.letters);
   },
 };
 </script>
